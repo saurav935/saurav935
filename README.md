@@ -1,6 +1,6 @@
 
 - 👋 Hello there, my name is  Saurav Pawar (@saurav935)
-- 👀 I’m interested in various breath taking fields like Artificial Intelligence, Deep Learning, Cryptography and Quantum Computing.
+- 👀 I’m interested in various breath taking fields like Artificial Intelligence, Deep Learning, Cryptography and Computer Vision.
 - 🌱 I’m currently learning and expanding my knowledge in the fields mentioned above.
 - 📫 How to reach me - email id -- pawarsaurav842@gmail.com
 
